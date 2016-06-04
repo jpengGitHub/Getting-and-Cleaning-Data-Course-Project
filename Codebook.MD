@@ -1,4 +1,4 @@
-#### Identifiers (1, 2)
+#### Identifiers (variables 1, 2)
 
 * subject_ID
 * activity_ID  
@@ -9,7 +9,7 @@
 --* 5. standing          
 --* 6. laying
 
-#### Measure names are self explanatory (3 - 68)
+#### Measure names are self explanatory (varaibles 3, ... 68)
 (please note that only Mean and StandardDeviation are included, MeanFreq variables are not included)
 
 * TimeDomainSignal-BodyLinearLinearAccelerationeleration-Mean-XDirection
