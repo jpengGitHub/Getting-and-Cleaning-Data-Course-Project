@@ -1,0 +1,80 @@
+#### Identifiers (1, 2)
+
+* subject_ID
+* activity_ID  
+--* 1. walking  
+--* 2. walking_upstairs  
+--* 3. walking_downstairs  
+--* 4. sitting   
+--* 5. standing          
+--* 6. laying
+
+#### Measure names are self explanatory (3 - 68)
+(please note that only Mean and StandardDeviation are included, MeanFreq variables are not included)
+
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-Mean-XDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-Mean-YDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-Mean-ZDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-XDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-YDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-ZDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-Mean-XDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-Mean-YDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-Mean-ZDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-StandardDeviation-XDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-StandardDeviation-YDirection
+* TimeDomainSignal-GravityLinearLinearAccelerationeleration-StandardDeviation-ZDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-XDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-YDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-ZDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-XDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-YDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-ZDirection
+* TimeDomainSignal-BodyAngularVelocity-Mean-XDirection
+* TimeDomainSignal-BodyAngularVelocity-Mean-YDirection
+* TimeDomainSignal-BodyAngularVelocity-Mean-ZDirection
+* TimeDomainSignal-BodyAngularVelocity-StandardDeviation-XDirection
+* TimeDomainSignal-BodyAngularVelocity-StandardDeviation-YDirection
+* TimeDomainSignal-BodyAngularVelocity-StandardDeviation-ZDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-Mean-XDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-Mean-YDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-Mean-ZDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-StandardDeviation-XDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-StandardDeviation-YDirection
+* TimeDomainSignal-BodyAngularVelocityJerk-StandardDeviation-ZDirection
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationMagnitudenitude-Mean
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationMagnitudenitude-StandardDeviation
+* TimeDomainSignal-GravityLinearLinearAccelerationelerationMagnitudenitude-Mean
+* TimeDomainSignal-GravityLinearLinearAccelerationelerationMagnitudenitude-StandardDeviation
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerkMagnitudenitude-Mean
+* TimeDomainSignal-BodyLinearLinearAccelerationelerationJerkMagnitudenitude-StandardDeviation
+* TimeDomainSignal-BodyAngularVelocityMagnitudenitude-Mean
+* TimeDomainSignal-BodyAngularVelocityMagnitudenitude-StandardDeviation
+* TimeDomainSignal-BodyAngularVelocityJerkMagnitudenitude-Mean
+* TimeDomainSignal-BodyAngularVelocityJerkMagnitudenitude-StandardDeviation
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-Mean-XDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-Mean-YDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-Mean-ZDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-XDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-YDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationeleration-StandardDeviation-ZDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-XDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-YDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-Mean-ZDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-XDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-YDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationJerk-StandardDeviation-ZDirection
+* FrequencyDomainSignal-BodyAngularVelocity-Mean-XDirection
+* FrequencyDomainSignal-BodyAngularVelocity-Mean-YDirection
+* FrequencyDomainSignal-BodyAngularVelocity-Mean-ZDirection
+* FrequencyDomainSignal-BodyAngularVelocity-StandardDeviation-XDirection
+* FrequencyDomainSignal-BodyAngularVelocity-StandardDeviation-YDirection
+* FrequencyDomainSignal-BodyAngularVelocity-StandardDeviation-ZDirection
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationMagnitudenitude-Mean
+* FrequencyDomainSignal-BodyLinearLinearAccelerationelerationMagnitudenitude-StandardDeviation
+* FrequencyDomainSignal-BodyBodyLinearLinearAccelerationelerationJerkMagnitudenitude-Mean
+* FrequencyDomainSignal-BodyBodyLinearLinearAccelerationelerationJerkMagnitudenitude-StandardDeviation
+* FrequencyDomainSignal-BodyBodyAngularVelocityMagnitudenitude-Mean
+* FrequencyDomainSignal-BodyBodyAngularVelocityMagnitudenitude-StandardDeviation
+* FrequencyDomainSignal-BodyBodyAngularVelocityJerkMagnitudenitude-Mean
+* FrequencyDomainSignal-BodyBodyAngularVelocityJerkMagnitudenitude-StandardDeviation
